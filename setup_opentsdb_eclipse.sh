@@ -1,7 +1,5 @@
 #!/bin/bash
 #
-# This code is in Public Domain
-#
 # Setup script for OpenTSDB on Eclipse. Captures most of the steps from:
 # http://opentsdb.net/docs/build/html/development/development.html
 
